@@ -5,7 +5,7 @@ package backends
 
 import (
 	teamcity "github.com/cvbarros/go-teamcity/teamcity"
-	"github.com/ligurio/testres-db/formats"
+	"github.com/shaman-scheduler/testres-formats"
 	"log"
 	"net/http"
 )

@@ -3,7 +3,7 @@ package backends
 import (
 	"context"
 	"fmt"
-	"github.com/ligurio/testres-db/formats"
+	"github.com/shaman-scheduler/testres-formats"
 	travisci "github.com/shuheiktgw/go-travis"
 	"log"
 	"net/http"

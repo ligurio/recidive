@@ -22,8 +22,8 @@ https://api.cirrus-ci.com/graphql | python -m json.tool
 package backends
 
 import (
-	"github.com/ligurio/testres-db/formats"
 	"github.com/machinebox/graphql"
+	"github.com/shaman-scheduler/testres-formats"
 	"golang.org/x/net/context"
 	"net/http"
 )

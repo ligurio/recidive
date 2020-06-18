@@ -2,7 +2,7 @@ package backends
 
 import (
 	"github.com/bndr/gojenkins"
-	"github.com/ligurio/testres-db/formats"
+	"github.com/shaman-scheduler/testres-formats"
 	"log"
 	"net/http"
 )

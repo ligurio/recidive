@@ -2,7 +2,7 @@ package backends
 
 import (
 	"fmt"
-	"github.com/ligurio/testres-db/formats"
+	"github.com/shaman-scheduler/testres-formats"
 	gitlab "github.com/xanzy/go-gitlab"
 	"log"
 	"net/http"

@@ -3,7 +3,7 @@ package backends
 import (
 	"crypto/tls"
 	"errors"
-	"github.com/ligurio/testres-db/formats"
+	"github.com/shaman-scheduler/testres-formats"
 	"io"
 	"log"
 	"net/http"

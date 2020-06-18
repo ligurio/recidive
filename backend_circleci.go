@@ -4,7 +4,7 @@ package backends
 
 import (
 	"github.com/jszwedko/go-circleci"
-	"github.com/ligurio/testres-db/formats"
+	"github.com/shaman-scheduler/testres-formats"
 	"log"
 	"net/http"
 	"strings"
